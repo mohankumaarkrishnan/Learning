@@ -5,7 +5,7 @@ public class FindTriplet {
 	public static void main(String[] args) {
 		
 		int[] arr= {0,-1,-3,5,4,-5};
-	
+				
 		findTriplet(arr,0);
 		
 	}

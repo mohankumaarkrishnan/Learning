@@ -1,10 +1,10 @@
-package Sorting;
+package SortAlgorithms;
 
 public class MergeSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] b= {-3,-6,0,6,9,7,1,-9,-9};
+		int[] b= {-3,-6,0,6,9,-4,7,1};
 		System.out.println("before sorting...");
 		for(int j:b) {
 			System.out.print(j+" ");
