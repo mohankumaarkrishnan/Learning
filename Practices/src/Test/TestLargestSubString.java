@@ -1,9 +1,7 @@
 package Test;
 
 import static org.junit.Assert.assertEquals;
-
 import org.junit.Test;
-
 import Dec19.LargestSubString;
 
 public class TestLargestSubString {
