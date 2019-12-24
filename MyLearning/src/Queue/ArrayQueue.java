@@ -46,7 +46,7 @@ public class ArrayQueue {
 	
 	
 	public static void main(String[] args) {
-		ArrayQueue queue=new ArrayQueue(5);
+		ArrayQueue queue=new ArrayQueue(4);
 		
 		queue.add(1);
 		queue.add(2);

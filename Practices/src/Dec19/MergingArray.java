@@ -18,7 +18,7 @@ public class MergingArray {
 			final_array[k++] = first_array[i++];
 		}
 		while (j < s_len) {
-			final_array[k++] = first_array[j++];
+			final_array[k++] = second_array[j++];
 		}
 
 		return final_array;
